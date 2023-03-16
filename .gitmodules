@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "TrtCombo.FactorialExp.SR"]
+	path = TrtCombo.FactorialExp.SR
+	url = https://github.com/roy-sr-007/trtcombo.factorialexp.sr
+	shallow = true
+	registered = true
