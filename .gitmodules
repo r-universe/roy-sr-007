@@ -2,12 +2,12 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "gamblers.ruin.gameplay"]
-	path = gamblers.ruin.gameplay
-	url = https://github.com/cran/gamblers.ruin.gameplay
 [submodule "TrtCombo.FactorialExp.SR"]
 	path = TrtCombo.FactorialExp.SR
 	url = https://github.com/roy-sr-007/trtcombo.factorialexp.sr
 [submodule "YatesAlgo.FactorialExp.SR"]
 	path = YatesAlgo.FactorialExp.SR
 	url = https://github.com/cran/YatesAlgo.FactorialExp.SR
+[submodule "gamblers.ruin.gameplay"]
+	path = gamblers.ruin.gameplay
+	url = https://github.com/cran/gamblers.ruin.gameplay
