@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "GoodFitSBM"]
+	path = GoodFitSBM
+	url = https://github.com/roy-sr-007/goodfitsbm
 [submodule "TrtCombo.FactorialExp.SR"]
 	path = TrtCombo.FactorialExp.SR
 	url = https://github.com/roy-sr-007/trtcombo.factorialexp.sr
