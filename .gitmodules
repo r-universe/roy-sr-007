@@ -14,6 +14,3 @@
 [submodule "bayesestdft"]
 	path = bayesestdft
 	url = https://github.com/roy-sr-007/bayesestdft
-[submodule "gamblers.ruin.gameplay"]
-	path = gamblers.ruin.gameplay
-	url = https://github.com/cran/gamblers.ruin.gameplay
